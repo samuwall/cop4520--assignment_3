@@ -1,0 +1,5 @@
+Servant 2 wrote 125000 thank you's, and removed 125000 presents
+Servant 3 wrote 125000 thank you's, and removed 125000 presents
+Servant 1 wrote 125000 thank you's, and removed 125000 presents
+Servant 0 wrote 125000 thank you's, and removed 125000 presents
+runtime: 0.224s
