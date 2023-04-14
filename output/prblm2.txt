@@ -1,0 +1,5 @@
+Minute report:
+
+        Top 5 highest temperatures: 69F 69F 67F 67F 66F
+        Top 5 lowest temperatures: -100F -99F -99F -98F -98F
+        Largest temperature difference observed in a 10-second interval: 168F (second 23 to 32)
