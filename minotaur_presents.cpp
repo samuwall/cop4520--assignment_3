@@ -1,3 +1,10 @@
+ /*    
+ *  Assignment 3: Problem 1
+ *  The Birthday Presents Party
+ *  Samu Wallace 
+ *  COP4502, Dr. Parra
+ */
+
 #include <iostream>
 #include <thread>
 #include <vector>
